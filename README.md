@@ -1,3 +1,6 @@
+Алгоритм нахождения максимального пересечения
+========
+
 Run class - Apllication;
 Test class - ApllicationTest;
 
